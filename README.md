@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LachezarHPetkov
 - 👀 I’m interested in JAVA, Blockchain
-- 🌱 I’m currently learning Automation in Technical university of Sofia
+- 🌱 I’m currently learning Automation in Technical university of Sofia and JAVA in SoftUni
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lachezarpetkov98@gmail.com
 
